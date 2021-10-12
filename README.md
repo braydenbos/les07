@@ -1,7 +1,7 @@
-# Game Reviews
+# Minecraft Game Reviews
 
-Zet hieronder de links naar jouw game review.
+Review van Minecraft. Kiet en Brayden
 
-[Review 1](Review1.md)
+[Brayden Bos](Review1.md)
 
-[Review 2](Review2.md)
+[Kiet Mandjes](Review2.md)
