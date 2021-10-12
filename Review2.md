@@ -1,6 +1,6 @@
 # Minecraft review
 
-Leuke sand-box game waar je lekker je eigen verhaal in kan maken en er is veel mod support dus je kunt van alles toevoegen aan de game zelf waardoor het nog een betere game kan worden.
+Leuke sand-box game waar je lekker je eigen verhaal in kan maken. Er is veel mod support dus je kunt van alles toevoegen aan de game zelf waardoor het nog een betere game kan worden.
 
 ## Pluspunten
 +Grote random generated werelden.
@@ -17,3 +17,4 @@ Leuke sand-box game waar je lekker je eigen verhaal in kan maken en er is veel m
 -Nieuwe Updates brengen weinig nieuws.
 
 -Werkt niet goed op verre render distance.
+
